@@ -1,9 +1,8 @@
-# npc
-Hi there
 # https://tea.xyz/what-is-this-file
 ---
 version: 1.0.0
 codeOwners:
   - '0xA38c417aa9B6127C89aFC7De26e3231554CfBDB6'
 quorum: 1
+
 
